@@ -21,20 +21,20 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\CompSciFall2018\Lab1Strings\WordGame.cpp">
-      <Filter>Source Files\Lab1Strings</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\CompSciFall2018\Lab1Strings\MonthlyPayments.cpp">
-      <Filter>Source Files\Lab1Strings</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\CompSciFall2018\Lab1Strings\StockTransactionProgram.cpp">
-      <Filter>Source Files\Lab1Strings</Filter>
-    </ClCompile>
     <ClCompile Include="Sandbox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="StateIncomeTax.cpp">
       <Filter>Source Files\Lab2Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="MonthlyPayments.cpp">
+      <Filter>Source Files\Lab1Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="WordGame.cpp">
+      <Filter>Source Files\Lab1Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="StockTransactionProgram.cpp">
+      <Filter>Source Files\Lab1Strings</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
