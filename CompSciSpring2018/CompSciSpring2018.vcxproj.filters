@@ -13,11 +13,14 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Lab1Strings">
-      <UniqueIdentifier>{938f3c8b-2700-4c0e-bb42-a8543380a083}</UniqueIdentifier>
+    <Filter Include="Source Files\HW1-ISP">
+      <UniqueIdentifier>{c929a077-8c99-40b3-b7a4-de9a84d97a4e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Lab2Decisions">
+    <Filter Include="Source Files\Lab2-Decisions">
       <UniqueIdentifier>{acc5c31e-e623-4d3d-b06d-dddef8e074c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab1-Strings">
+      <UniqueIdentifier>{938f3c8b-2700-4c0e-bb42-a8543380a083}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -25,16 +28,19 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="StateIncomeTax.cpp">
-      <Filter>Source Files\Lab2Decisions</Filter>
+      <Filter>Source Files\Lab2-Decisions</Filter>
     </ClCompile>
     <ClCompile Include="MonthlyPayments.cpp">
-      <Filter>Source Files\Lab1Strings</Filter>
+      <Filter>Source Files\Lab1-Strings</Filter>
     </ClCompile>
     <ClCompile Include="WordGame.cpp">
-      <Filter>Source Files\Lab1Strings</Filter>
+      <Filter>Source Files\Lab1-Strings</Filter>
     </ClCompile>
     <ClCompile Include="StockTransactionProgram.cpp">
-      <Filter>Source Files\Lab1Strings</Filter>
+      <Filter>Source Files\Lab1-Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="InternetSeriveProvider.cpp">
+      <Filter>Source Files\HW1-ISP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
