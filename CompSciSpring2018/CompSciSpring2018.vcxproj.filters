@@ -27,20 +27,23 @@
     <ClCompile Include="Sandbox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StateIncomeTax.cpp">
+    <ClCompile Include="HW1-ISP\InternetSeriveProvider.cpp">
+      <Filter>Source Files\HW1-ISP</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1-Strings\WordGame.cpp">
+      <Filter>Source Files\Lab1-Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1-Strings\MonthlyPayments.cpp">
+      <Filter>Source Files\Lab1-Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2-Decisions\StateIncomeTax.cpp">
       <Filter>Source Files\Lab2-Decisions</Filter>
     </ClCompile>
-    <ClCompile Include="MonthlyPayments.cpp">
+    <ClCompile Include="Lab1-Strings\StockTransactionProgram.cpp">
       <Filter>Source Files\Lab1-Strings</Filter>
     </ClCompile>
-    <ClCompile Include="WordGame.cpp">
-      <Filter>Source Files\Lab1-Strings</Filter>
-    </ClCompile>
-    <ClCompile Include="StockTransactionProgram.cpp">
-      <Filter>Source Files\Lab1-Strings</Filter>
-    </ClCompile>
-    <ClCompile Include="InternetSeriveProvider.cpp">
-      <Filter>Source Files\HW1-ISP</Filter>
+    <ClCompile Include="Lab3-TImer\Countdown TImer.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
