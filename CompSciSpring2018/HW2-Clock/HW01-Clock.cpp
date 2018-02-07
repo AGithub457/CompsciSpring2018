@@ -22,7 +22,9 @@ int main() {
 	//because if we request it then add a second ourselves, we might be off by milliseconds
 	//and it won't be the exact time. Below is a commented out portion of an implementation
 	//to make the time as accurate as possible. It is also, ironically, much shorter than the
-	//assignment implementation.
+	//assignment implementation. Upon further examination of the logic, we can also begin the clock
+	//at the 0th millisecond and then count upwards, but we still have to account for extra processing
+	//time in the loop, so it will never be perfectly exact synced up to system time.
 
 	/*struct tm timeTm;
 	char buffer[100];
@@ -39,6 +41,7 @@ int main() {
 	const int MAX_HOURS = 24;
 	const int MAX_MINUTES = 60;
 	const int MAX_SECONDS = 60;
+	const int MAX_TOTAL_SECONDS = 86400;
 
 	int hours = 0;
 	int minutes = 0;
@@ -54,23 +57,19 @@ int main() {
 	seconds = (&timeTm)->tm_sec;
 
 	while (true) {
-		for (; hours < MAX_HOURS; hours++) {
-			for (; minutes < MAX_MINUTES; minutes++) {
-				for (; seconds < MAX_SECONDS; seconds++) {
-					cout << "Time now: "
-						<< right << setw(2) << setfill('0') << hours << ":"
-						<< right << setw(2) << setfill('0') << minutes << ":"
-						<< right << setw(2) << setfill('0') << seconds << '\r';
+		//Use one for loop to minimize delay in processing time
+		for(int totSeconds = (hours * 3600) + (minutes * 60) + seconds; totSeconds < MAX_TOTAL_SECONDS; totSeconds++)
+		{
+			cout << "Time now: "
+				<< right << setw(2) << setfill('0') << (totSeconds / 3600) << ":"
+				<< right << setw(2) << setfill('0') << ((totSeconds % 3600) / 60) << ":"
+				<< right << setw(2) << setfill('0') << totSeconds % 60 << '\r';
 
-					this_thread::sleep_for(chrono::seconds(1));
-				}
-
-				seconds = 0;
-			}
-
-			minutes = 0;
+			this_thread::sleep_for(chrono::seconds(1));
 		}
 
+		minutes = 0;
+		seconds = 0;
 		hours = 0;
 	}
 
