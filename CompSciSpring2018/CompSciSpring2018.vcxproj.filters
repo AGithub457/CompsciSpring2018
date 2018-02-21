@@ -27,26 +27,128 @@
     <ClCompile Include="Sandbox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HW1-ISP\InternetSeriveProvider.cpp">
-      <Filter>Source Files\HW1-ISP</Filter>
+    <ClCompile Include="Lab03-TImer\Countdown TImer.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Lab1-Strings\WordGame.cpp">
-      <Filter>Source Files\Lab1-Strings</Filter>
-    </ClCompile>
-    <ClCompile Include="Lab1-Strings\MonthlyPayments.cpp">
-      <Filter>Source Files\Lab1-Strings</Filter>
-    </ClCompile>
-    <ClCompile Include="Lab2-Decisions\StateIncomeTax.cpp">
+    <ClCompile Include="Lab02-Decisions\StateIncomeTax.cpp">
       <Filter>Source Files\Lab2-Decisions</Filter>
     </ClCompile>
-    <ClCompile Include="Lab1-Strings\StockTransactionProgram.cpp">
+    <ClCompile Include="Lab01-Strings\MonthlyPayments.cpp">
       <Filter>Source Files\Lab1-Strings</Filter>
     </ClCompile>
-    <ClCompile Include="Lab3-TImer\Countdown TImer.cpp">
+    <ClCompile Include="Lab01-Strings\StockTransactionProgram.cpp">
+      <Filter>Source Files\Lab1-Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab01-Strings\WordGame.cpp">
+      <Filter>Source Files\Lab1-Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="HW02-Clock\HW01-Clock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HW2-Clock\HW01-Clock.cpp">
+    <ClCompile Include="HW01-ISP\InternetSeriveProvider.cpp">
+      <Filter>Source Files\HW1-ISP</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab04-Calculator\Calculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Lab06-Files\AppendFile_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab06-Files\AppendFile_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab06-Files\FileCopy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab06-Files\FileErrors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab06-Files\FormatFileOutput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab06-Files\GetlineDelimiter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab06-Files\GetlineDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab06-Files\InputFileName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\AmbiguousOverloading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\DefaultArgumentDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\GreatestCommonDivisor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\GreatestCommonDivisorFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\Hex2Dec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\Increment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\IncrementWithPassByReference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\InlineDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\InlineDemo1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\PrimeNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\PrimeNumberFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\PrintCalendar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\PrintCalendarSkeleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\StaticVariableDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestFunctionOverloading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestFunctionPrototype.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestMax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestPassByReference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestPassByValue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestReferenceVariable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestReturnGradeFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\TestVoidFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab05-Functions\VariableScopeDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="calc.txt" />
+    <Text Include="city.txt" />
+    <Text Include="murphy.txt" />
+    <Text Include="names2.txt" />
   </ItemGroup>
 </Project>
