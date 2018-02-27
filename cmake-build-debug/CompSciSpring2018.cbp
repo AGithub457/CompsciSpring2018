@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="HW01-Clock">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/HW01-Clock.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/HW01-Clock.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW01-Clock"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW01-Clock"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="HW01-Clock/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/HW01-Clock.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/HW01-Clock.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW01-Clock/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW01-Clock/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Sandbox">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Sandbox.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Sandbox.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -74,15 +74,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sandbox"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sandbox"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Sandbox/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Sandbox.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Sandbox.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -95,15 +95,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sandbox/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sandbox/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CountdownTimer">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CountdownTimer.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CountdownTimer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -116,15 +116,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountdownTimer"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountdownTimer"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CountdownTimer/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CountdownTimer.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CountdownTimer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -137,15 +137,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountdownTimer/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountdownTimer/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="InternetSeriveProvider">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/InternetSeriveProvider.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/InternetSeriveProvider.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -158,15 +158,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 InternetSeriveProvider"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 InternetSeriveProvider"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="InternetSeriveProvider/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/InternetSeriveProvider.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/InternetSeriveProvider.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -179,15 +179,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 InternetSeriveProvider/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 InternetSeriveProvider/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="StockTransactionProgram">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/StockTransactionProgram.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/StockTransactionProgram.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -200,15 +200,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StockTransactionProgram"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StockTransactionProgram"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="StockTransactionProgram/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/StockTransactionProgram.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/StockTransactionProgram.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -221,15 +221,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StockTransactionProgram/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StockTransactionProgram/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MonthlyPayments">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/MonthlyPayments.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/MonthlyPayments.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -242,15 +242,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 MonthlyPayments"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 MonthlyPayments"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MonthlyPayments/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/MonthlyPayments.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/MonthlyPayments.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -263,15 +263,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 MonthlyPayments/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 MonthlyPayments/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="WordGame">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/WordGame.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/WordGame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -284,15 +284,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordGame"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordGame"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="WordGame/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/WordGame.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/WordGame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -305,15 +305,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordGame/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordGame/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RomanNumeral">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/RomanNumeral.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/RomanNumeral.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -326,15 +326,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 RomanNumeral"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 RomanNumeral"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RomanNumeral/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/RomanNumeral.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/RomanNumeral.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -347,15 +347,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 RomanNumeral/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 RomanNumeral/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="StateIncomeTax">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/StateIncomeTax.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/StateIncomeTax.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -368,15 +368,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StateIncomeTax"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StateIncomeTax"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="StateIncomeTax/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/StateIncomeTax.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/StateIncomeTax.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -389,15 +389,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StateIncomeTax/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 StateIncomeTax/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Calculator">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Calculator.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Calculator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -410,15 +410,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Calculator/fast">
-				<Option output="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Calculator.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option output="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Calculator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -431,64 +431,64 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/HW01-ISP/InternetSeriveProvider.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/HW01-ISP/InternetSeriveProvider.cpp">
 			<Option target="InternetSeriveProvider"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/HW02-Clock/HW01-Clock.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/HW02-Clock/HW01-Clock.cpp">
 			<Option target="HW01-Clock"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/Lab01-Strings/MonthlyPayments.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/Lab01-Strings/MonthlyPayments.cpp">
 			<Option target="MonthlyPayments"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/Lab01-Strings/StockTransactionProgram.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/Lab01-Strings/StockTransactionProgram.cpp">
 			<Option target="StockTransactionProgram"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/Lab01-Strings/WordGame.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/Lab01-Strings/WordGame.cpp">
 			<Option target="WordGame"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/Lab02-Decisions/StateIncomeTax.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/Lab02-Decisions/StateIncomeTax.cpp">
 			<Option target="StateIncomeTax"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/Lab03-Timer/CountdownTimer.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/Lab03-Timer/CountdownTimer.cpp">
 			<Option target="CountdownTimer"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/OpenLab01-Calculator/Calculator.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/OpenLab01-Calculator/Calculator.cpp">
 			<Option target="Calculator"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/OpenLab02-Roman/RomanNumeral.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/OpenLab02-Roman/RomanNumeral.cpp">
 			<Option target="RomanNumeral"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/src/Sandbox.cpp">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/src/Sandbox.cpp">
 			<Option target="Sandbox"/>
 		</Unit>
-		<Unit filename="C:/Users/Armand/Documents/Development/CompSciSpring2018/CMakeLists.txt">
+		<Unit filename="C:/Users/Armand/Documents/Development/School/CompSciSpring2018/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
