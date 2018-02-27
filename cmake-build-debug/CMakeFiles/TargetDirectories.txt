@@ -1,0 +1,12 @@
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/HW01-Clock.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/Sandbox.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/CountdownTimer.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/InternetSeriveProvider.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/StockTransactionProgram.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/MonthlyPayments.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/WordGame.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/RomanNumeral.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/StateIncomeTax.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/Calculator.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Armand/Documents/Development/CompSciSpring2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir
