@@ -120,7 +120,7 @@ int main() {
 	ofstream fout("numeral.txt");
 
 	while (notExit) {
-		cout << "Please enter a value (e to exit):";
+		cout << "Please enter a value (e to exit): ";
 		getline(cin, val);
 
 		if (tolower(val.at(0)) == 'e') {
