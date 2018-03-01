@@ -1,3 +1,4 @@
+C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/RangeBasedFor.dir
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/HW01-Clock.dir
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/Sandbox.dir
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/CountdownTimer.dir
@@ -8,5 +9,9 @@ C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/RomanNumeral.dir
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/StateIncomeTax.dir
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/Calculator.dir
+C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/TestVector.dir
+C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/VectorDemo.dir
+C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/PrintVector.dir
+C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/ToDoList.dir
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Armand/Documents/Development/School/CompSciSpring2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir

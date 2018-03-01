@@ -110,6 +110,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named RangeBasedFor
+
+# Build rule for target.
+RangeBasedFor: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 RangeBasedFor
+.PHONY : RangeBasedFor
+
+# fast build rule for target.
+RangeBasedFor/fast:
+	$(MAKE) -f CMakeFiles\RangeBasedFor.dir\build.make CMakeFiles/RangeBasedFor.dir/build
+.PHONY : RangeBasedFor/fast
+
+#=============================================================================
 # Target rules for targets named HW01-Clock
 
 # Build rule for target.
@@ -238,6 +251,58 @@ Calculator: cmake_check_build_system
 Calculator/fast:
 	$(MAKE) -f CMakeFiles\Calculator.dir\build.make CMakeFiles/Calculator.dir/build
 .PHONY : Calculator/fast
+
+#=============================================================================
+# Target rules for targets named TestVector
+
+# Build rule for target.
+TestVector: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 TestVector
+.PHONY : TestVector
+
+# fast build rule for target.
+TestVector/fast:
+	$(MAKE) -f CMakeFiles\TestVector.dir\build.make CMakeFiles/TestVector.dir/build
+.PHONY : TestVector/fast
+
+#=============================================================================
+# Target rules for targets named VectorDemo
+
+# Build rule for target.
+VectorDemo: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 VectorDemo
+.PHONY : VectorDemo
+
+# fast build rule for target.
+VectorDemo/fast:
+	$(MAKE) -f CMakeFiles\VectorDemo.dir\build.make CMakeFiles/VectorDemo.dir/build
+.PHONY : VectorDemo/fast
+
+#=============================================================================
+# Target rules for targets named PrintVector
+
+# Build rule for target.
+PrintVector: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 PrintVector
+.PHONY : PrintVector
+
+# fast build rule for target.
+PrintVector/fast:
+	$(MAKE) -f CMakeFiles\PrintVector.dir\build.make CMakeFiles/PrintVector.dir/build
+.PHONY : PrintVector/fast
+
+#=============================================================================
+# Target rules for targets named ToDoList
+
+# Build rule for target.
+ToDoList: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ToDoList
+.PHONY : ToDoList
+
+# fast build rule for target.
+ToDoList/fast:
+	$(MAKE) -f CMakeFiles\ToDoList.dir\build.make CMakeFiles/ToDoList.dir/build
+.PHONY : ToDoList/fast
 
 src/HW01-ISP/InternetSeriveProvider.obj: src/HW01-ISP/InternetSeriveProvider.cpp.obj
 
@@ -428,6 +493,114 @@ src/Lab03-Timer/CountdownTimer.cpp.s:
 	$(MAKE) -f CMakeFiles\CountdownTimer.dir\build.make CMakeFiles/CountdownTimer.dir/src/Lab03-Timer/CountdownTimer.cpp.s
 .PHONY : src/Lab03-Timer/CountdownTimer.cpp.s
 
+src/Lab07-Vectors/PrintVector.obj: src/Lab07-Vectors/PrintVector.cpp.obj
+
+.PHONY : src/Lab07-Vectors/PrintVector.obj
+
+# target to build an object file
+src/Lab07-Vectors/PrintVector.cpp.obj:
+	$(MAKE) -f CMakeFiles\PrintVector.dir\build.make CMakeFiles/PrintVector.dir/src/Lab07-Vectors/PrintVector.cpp.obj
+.PHONY : src/Lab07-Vectors/PrintVector.cpp.obj
+
+src/Lab07-Vectors/PrintVector.i: src/Lab07-Vectors/PrintVector.cpp.i
+
+.PHONY : src/Lab07-Vectors/PrintVector.i
+
+# target to preprocess a source file
+src/Lab07-Vectors/PrintVector.cpp.i:
+	$(MAKE) -f CMakeFiles\PrintVector.dir\build.make CMakeFiles/PrintVector.dir/src/Lab07-Vectors/PrintVector.cpp.i
+.PHONY : src/Lab07-Vectors/PrintVector.cpp.i
+
+src/Lab07-Vectors/PrintVector.s: src/Lab07-Vectors/PrintVector.cpp.s
+
+.PHONY : src/Lab07-Vectors/PrintVector.s
+
+# target to generate assembly for a file
+src/Lab07-Vectors/PrintVector.cpp.s:
+	$(MAKE) -f CMakeFiles\PrintVector.dir\build.make CMakeFiles/PrintVector.dir/src/Lab07-Vectors/PrintVector.cpp.s
+.PHONY : src/Lab07-Vectors/PrintVector.cpp.s
+
+src/Lab07-Vectors/RangeBasedFor.obj: src/Lab07-Vectors/RangeBasedFor.cpp.obj
+
+.PHONY : src/Lab07-Vectors/RangeBasedFor.obj
+
+# target to build an object file
+src/Lab07-Vectors/RangeBasedFor.cpp.obj:
+	$(MAKE) -f CMakeFiles\RangeBasedFor.dir\build.make CMakeFiles/RangeBasedFor.dir/src/Lab07-Vectors/RangeBasedFor.cpp.obj
+.PHONY : src/Lab07-Vectors/RangeBasedFor.cpp.obj
+
+src/Lab07-Vectors/RangeBasedFor.i: src/Lab07-Vectors/RangeBasedFor.cpp.i
+
+.PHONY : src/Lab07-Vectors/RangeBasedFor.i
+
+# target to preprocess a source file
+src/Lab07-Vectors/RangeBasedFor.cpp.i:
+	$(MAKE) -f CMakeFiles\RangeBasedFor.dir\build.make CMakeFiles/RangeBasedFor.dir/src/Lab07-Vectors/RangeBasedFor.cpp.i
+.PHONY : src/Lab07-Vectors/RangeBasedFor.cpp.i
+
+src/Lab07-Vectors/RangeBasedFor.s: src/Lab07-Vectors/RangeBasedFor.cpp.s
+
+.PHONY : src/Lab07-Vectors/RangeBasedFor.s
+
+# target to generate assembly for a file
+src/Lab07-Vectors/RangeBasedFor.cpp.s:
+	$(MAKE) -f CMakeFiles\RangeBasedFor.dir\build.make CMakeFiles/RangeBasedFor.dir/src/Lab07-Vectors/RangeBasedFor.cpp.s
+.PHONY : src/Lab07-Vectors/RangeBasedFor.cpp.s
+
+src/Lab07-Vectors/TestVector.obj: src/Lab07-Vectors/TestVector.cpp.obj
+
+.PHONY : src/Lab07-Vectors/TestVector.obj
+
+# target to build an object file
+src/Lab07-Vectors/TestVector.cpp.obj:
+	$(MAKE) -f CMakeFiles\TestVector.dir\build.make CMakeFiles/TestVector.dir/src/Lab07-Vectors/TestVector.cpp.obj
+.PHONY : src/Lab07-Vectors/TestVector.cpp.obj
+
+src/Lab07-Vectors/TestVector.i: src/Lab07-Vectors/TestVector.cpp.i
+
+.PHONY : src/Lab07-Vectors/TestVector.i
+
+# target to preprocess a source file
+src/Lab07-Vectors/TestVector.cpp.i:
+	$(MAKE) -f CMakeFiles\TestVector.dir\build.make CMakeFiles/TestVector.dir/src/Lab07-Vectors/TestVector.cpp.i
+.PHONY : src/Lab07-Vectors/TestVector.cpp.i
+
+src/Lab07-Vectors/TestVector.s: src/Lab07-Vectors/TestVector.cpp.s
+
+.PHONY : src/Lab07-Vectors/TestVector.s
+
+# target to generate assembly for a file
+src/Lab07-Vectors/TestVector.cpp.s:
+	$(MAKE) -f CMakeFiles\TestVector.dir\build.make CMakeFiles/TestVector.dir/src/Lab07-Vectors/TestVector.cpp.s
+.PHONY : src/Lab07-Vectors/TestVector.cpp.s
+
+src/Lab07-Vectors/VectorDemo.obj: src/Lab07-Vectors/VectorDemo.cpp.obj
+
+.PHONY : src/Lab07-Vectors/VectorDemo.obj
+
+# target to build an object file
+src/Lab07-Vectors/VectorDemo.cpp.obj:
+	$(MAKE) -f CMakeFiles\VectorDemo.dir\build.make CMakeFiles/VectorDemo.dir/src/Lab07-Vectors/VectorDemo.cpp.obj
+.PHONY : src/Lab07-Vectors/VectorDemo.cpp.obj
+
+src/Lab07-Vectors/VectorDemo.i: src/Lab07-Vectors/VectorDemo.cpp.i
+
+.PHONY : src/Lab07-Vectors/VectorDemo.i
+
+# target to preprocess a source file
+src/Lab07-Vectors/VectorDemo.cpp.i:
+	$(MAKE) -f CMakeFiles\VectorDemo.dir\build.make CMakeFiles/VectorDemo.dir/src/Lab07-Vectors/VectorDemo.cpp.i
+.PHONY : src/Lab07-Vectors/VectorDemo.cpp.i
+
+src/Lab07-Vectors/VectorDemo.s: src/Lab07-Vectors/VectorDemo.cpp.s
+
+.PHONY : src/Lab07-Vectors/VectorDemo.s
+
+# target to generate assembly for a file
+src/Lab07-Vectors/VectorDemo.cpp.s:
+	$(MAKE) -f CMakeFiles\VectorDemo.dir\build.make CMakeFiles/VectorDemo.dir/src/Lab07-Vectors/VectorDemo.cpp.s
+.PHONY : src/Lab07-Vectors/VectorDemo.cpp.s
+
 src/OpenLab01-Calculator/Calculator.obj: src/OpenLab01-Calculator/Calculator.cpp.obj
 
 .PHONY : src/OpenLab01-Calculator/Calculator.obj
@@ -482,6 +655,33 @@ src/OpenLab02-Roman/RomanNumeral.cpp.s:
 	$(MAKE) -f CMakeFiles\RomanNumeral.dir\build.make CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.s
 .PHONY : src/OpenLab02-Roman/RomanNumeral.cpp.s
 
+src/OpenLab03-ToDo/ToDoList.obj: src/OpenLab03-ToDo/ToDoList.cpp.obj
+
+.PHONY : src/OpenLab03-ToDo/ToDoList.obj
+
+# target to build an object file
+src/OpenLab03-ToDo/ToDoList.cpp.obj:
+	$(MAKE) -f CMakeFiles\ToDoList.dir\build.make CMakeFiles/ToDoList.dir/src/OpenLab03-ToDo/ToDoList.cpp.obj
+.PHONY : src/OpenLab03-ToDo/ToDoList.cpp.obj
+
+src/OpenLab03-ToDo/ToDoList.i: src/OpenLab03-ToDo/ToDoList.cpp.i
+
+.PHONY : src/OpenLab03-ToDo/ToDoList.i
+
+# target to preprocess a source file
+src/OpenLab03-ToDo/ToDoList.cpp.i:
+	$(MAKE) -f CMakeFiles\ToDoList.dir\build.make CMakeFiles/ToDoList.dir/src/OpenLab03-ToDo/ToDoList.cpp.i
+.PHONY : src/OpenLab03-ToDo/ToDoList.cpp.i
+
+src/OpenLab03-ToDo/ToDoList.s: src/OpenLab03-ToDo/ToDoList.cpp.s
+
+.PHONY : src/OpenLab03-ToDo/ToDoList.s
+
+# target to generate assembly for a file
+src/OpenLab03-ToDo/ToDoList.cpp.s:
+	$(MAKE) -f CMakeFiles\ToDoList.dir\build.make CMakeFiles/ToDoList.dir/src/OpenLab03-ToDo/ToDoList.cpp.s
+.PHONY : src/OpenLab03-ToDo/ToDoList.cpp.s
+
 src/Sandbox.obj: src/Sandbox.cpp.obj
 
 .PHONY : src/Sandbox.obj
@@ -515,6 +715,7 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
+	@echo ... RangeBasedFor
 	@echo ... HW01-Clock
 	@echo ... Sandbox
 	@echo ... CountdownTimer
@@ -525,6 +726,10 @@ help:
 	@echo ... RomanNumeral
 	@echo ... StateIncomeTax
 	@echo ... Calculator
+	@echo ... TestVector
+	@echo ... VectorDemo
+	@echo ... PrintVector
+	@echo ... ToDoList
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... src/HW01-ISP/InternetSeriveProvider.obj
@@ -548,12 +753,27 @@ help:
 	@echo ... src/Lab03-Timer/CountdownTimer.obj
 	@echo ... src/Lab03-Timer/CountdownTimer.i
 	@echo ... src/Lab03-Timer/CountdownTimer.s
+	@echo ... src/Lab07-Vectors/PrintVector.obj
+	@echo ... src/Lab07-Vectors/PrintVector.i
+	@echo ... src/Lab07-Vectors/PrintVector.s
+	@echo ... src/Lab07-Vectors/RangeBasedFor.obj
+	@echo ... src/Lab07-Vectors/RangeBasedFor.i
+	@echo ... src/Lab07-Vectors/RangeBasedFor.s
+	@echo ... src/Lab07-Vectors/TestVector.obj
+	@echo ... src/Lab07-Vectors/TestVector.i
+	@echo ... src/Lab07-Vectors/TestVector.s
+	@echo ... src/Lab07-Vectors/VectorDemo.obj
+	@echo ... src/Lab07-Vectors/VectorDemo.i
+	@echo ... src/Lab07-Vectors/VectorDemo.s
 	@echo ... src/OpenLab01-Calculator/Calculator.obj
 	@echo ... src/OpenLab01-Calculator/Calculator.i
 	@echo ... src/OpenLab01-Calculator/Calculator.s
 	@echo ... src/OpenLab02-Roman/RomanNumeral.obj
 	@echo ... src/OpenLab02-Roman/RomanNumeral.i
 	@echo ... src/OpenLab02-Roman/RomanNumeral.s
+	@echo ... src/OpenLab03-ToDo/ToDoList.obj
+	@echo ... src/OpenLab03-ToDo/ToDoList.i
+	@echo ... src/OpenLab03-ToDo/ToDoList.s
 	@echo ... src/Sandbox.obj
 	@echo ... src/Sandbox.i
 	@echo ... src/Sandbox.s

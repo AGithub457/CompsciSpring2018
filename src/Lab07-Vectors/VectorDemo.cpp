@@ -35,7 +35,7 @@ int main()
     cout << doubleVector[i] << " ";
 
   doubleVector.clear();
-  cout << "\Size is " << doubleVector.size() << endl;
+  cout << "\nSize is " << doubleVector.size() << endl;
   cout << "Is empty? " <<
         (doubleVector.empty() ? "true" : "false") << endl;
 

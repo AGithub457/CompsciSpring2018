@@ -59,6 +59,43 @@ CMAKE_SOURCE_DIR = C:\Users\Armand\Documents\Development\School\CompSciSpring201
 CMAKE_BINARY_DIR = C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug
 
 #=============================================================================
+# Target rules for target CMakeFiles/RangeBasedFor.dir
+
+# All Build rule for target.
+CMakeFiles/RangeBasedFor.dir/all:
+	$(MAKE) -f CMakeFiles\RangeBasedFor.dir\build.make CMakeFiles/RangeBasedFor.dir/depend
+	$(MAKE) -f CMakeFiles\RangeBasedFor.dir\build.make CMakeFiles/RangeBasedFor.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target RangeBasedFor"
+.PHONY : CMakeFiles/RangeBasedFor.dir/all
+
+# Include target in all.
+all: CMakeFiles/RangeBasedFor.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/RangeBasedFor.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/RangeBasedFor.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/RangeBasedFor.dir/rule
+
+# Convenience name for target.
+RangeBasedFor: CMakeFiles/RangeBasedFor.dir/rule
+
+.PHONY : RangeBasedFor
+
+# clean rule for target.
+CMakeFiles/RangeBasedFor.dir/clean:
+	$(MAKE) -f CMakeFiles\RangeBasedFor.dir\build.make CMakeFiles/RangeBasedFor.dir/clean
+.PHONY : CMakeFiles/RangeBasedFor.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/RangeBasedFor.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/HW01-Clock.dir
 
 # All Build rule for target.
@@ -102,7 +139,7 @@ clean: CMakeFiles/HW01-Clock.dir/clean
 CMakeFiles/Sandbox.dir/all:
 	$(MAKE) -f CMakeFiles\Sandbox.dir\build.make CMakeFiles/Sandbox.dir/depend
 	$(MAKE) -f CMakeFiles\Sandbox.dir\build.make CMakeFiles/Sandbox.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target Sandbox"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target Sandbox"
 .PHONY : CMakeFiles/Sandbox.dir/all
 
 # Include target in all.
@@ -213,7 +250,7 @@ clean: CMakeFiles/InternetSeriveProvider.dir/clean
 CMakeFiles/StockTransactionProgram.dir/all:
 	$(MAKE) -f CMakeFiles\StockTransactionProgram.dir\build.make CMakeFiles/StockTransactionProgram.dir/depend
 	$(MAKE) -f CMakeFiles\StockTransactionProgram.dir\build.make CMakeFiles/StockTransactionProgram.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target StockTransactionProgram"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target StockTransactionProgram"
 .PHONY : CMakeFiles/StockTransactionProgram.dir/all
 
 # Include target in all.
@@ -287,7 +324,7 @@ clean: CMakeFiles/MonthlyPayments.dir/clean
 CMakeFiles/WordGame.dir/all:
 	$(MAKE) -f CMakeFiles\WordGame.dir\build.make CMakeFiles/WordGame.dir/depend
 	$(MAKE) -f CMakeFiles\WordGame.dir\build.make CMakeFiles/WordGame.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target WordGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=29,30 "Built target WordGame"
 .PHONY : CMakeFiles/WordGame.dir/all
 
 # Include target in all.
@@ -324,7 +361,7 @@ clean: CMakeFiles/WordGame.dir/clean
 CMakeFiles/RomanNumeral.dir/all:
 	$(MAKE) -f CMakeFiles\RomanNumeral.dir\build.make CMakeFiles/RomanNumeral.dir/depend
 	$(MAKE) -f CMakeFiles\RomanNumeral.dir\build.make CMakeFiles/RomanNumeral.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target RomanNumeral"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target RomanNumeral"
 .PHONY : CMakeFiles/RomanNumeral.dir/all
 
 # Include target in all.
@@ -361,7 +398,7 @@ clean: CMakeFiles/RomanNumeral.dir/clean
 CMakeFiles/StateIncomeTax.dir/all:
 	$(MAKE) -f CMakeFiles\StateIncomeTax.dir\build.make CMakeFiles/StateIncomeTax.dir/depend
 	$(MAKE) -f CMakeFiles\StateIncomeTax.dir\build.make CMakeFiles/StateIncomeTax.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target StateIncomeTax"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target StateIncomeTax"
 .PHONY : CMakeFiles/StateIncomeTax.dir/all
 
 # Include target in all.
@@ -425,6 +462,154 @@ CMakeFiles/Calculator.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/Calculator.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/TestVector.dir
+
+# All Build rule for target.
+CMakeFiles/TestVector.dir/all:
+	$(MAKE) -f CMakeFiles\TestVector.dir\build.make CMakeFiles/TestVector.dir/depend
+	$(MAKE) -f CMakeFiles\TestVector.dir\build.make CMakeFiles/TestVector.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target TestVector"
+.PHONY : CMakeFiles/TestVector.dir/all
+
+# Include target in all.
+all: CMakeFiles/TestVector.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/TestVector.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/TestVector.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/TestVector.dir/rule
+
+# Convenience name for target.
+TestVector: CMakeFiles/TestVector.dir/rule
+
+.PHONY : TestVector
+
+# clean rule for target.
+CMakeFiles/TestVector.dir/clean:
+	$(MAKE) -f CMakeFiles\TestVector.dir\build.make CMakeFiles/TestVector.dir/clean
+.PHONY : CMakeFiles/TestVector.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/TestVector.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/VectorDemo.dir
+
+# All Build rule for target.
+CMakeFiles/VectorDemo.dir/all:
+	$(MAKE) -f CMakeFiles\VectorDemo.dir\build.make CMakeFiles/VectorDemo.dir/depend
+	$(MAKE) -f CMakeFiles\VectorDemo.dir\build.make CMakeFiles/VectorDemo.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=27,28 "Built target VectorDemo"
+.PHONY : CMakeFiles/VectorDemo.dir/all
+
+# Include target in all.
+all: CMakeFiles/VectorDemo.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/VectorDemo.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/VectorDemo.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/VectorDemo.dir/rule
+
+# Convenience name for target.
+VectorDemo: CMakeFiles/VectorDemo.dir/rule
+
+.PHONY : VectorDemo
+
+# clean rule for target.
+CMakeFiles/VectorDemo.dir/clean:
+	$(MAKE) -f CMakeFiles\VectorDemo.dir\build.make CMakeFiles/VectorDemo.dir/clean
+.PHONY : CMakeFiles/VectorDemo.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/VectorDemo.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/PrintVector.dir
+
+# All Build rule for target.
+CMakeFiles/PrintVector.dir/all:
+	$(MAKE) -f CMakeFiles\PrintVector.dir\build.make CMakeFiles/PrintVector.dir/depend
+	$(MAKE) -f CMakeFiles\PrintVector.dir\build.make CMakeFiles/PrintVector.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target PrintVector"
+.PHONY : CMakeFiles/PrintVector.dir/all
+
+# Include target in all.
+all: CMakeFiles/PrintVector.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/PrintVector.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/PrintVector.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/PrintVector.dir/rule
+
+# Convenience name for target.
+PrintVector: CMakeFiles/PrintVector.dir/rule
+
+.PHONY : PrintVector
+
+# clean rule for target.
+CMakeFiles/PrintVector.dir/clean:
+	$(MAKE) -f CMakeFiles\PrintVector.dir\build.make CMakeFiles/PrintVector.dir/clean
+.PHONY : CMakeFiles/PrintVector.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/PrintVector.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ToDoList.dir
+
+# All Build rule for target.
+CMakeFiles/ToDoList.dir/all:
+	$(MAKE) -f CMakeFiles\ToDoList.dir\build.make CMakeFiles/ToDoList.dir/depend
+	$(MAKE) -f CMakeFiles\ToDoList.dir\build.make CMakeFiles/ToDoList.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target ToDoList"
+.PHONY : CMakeFiles/ToDoList.dir/all
+
+# Include target in all.
+all: CMakeFiles/ToDoList.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ToDoList.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/ToDoList.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ToDoList.dir/rule
+
+# Convenience name for target.
+ToDoList: CMakeFiles/ToDoList.dir/rule
+
+.PHONY : ToDoList
+
+# clean rule for target.
+CMakeFiles/ToDoList.dir/clean:
+	$(MAKE) -f CMakeFiles\ToDoList.dir\build.make CMakeFiles/ToDoList.dir/clean
+.PHONY : CMakeFiles/ToDoList.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/ToDoList.dir/clean
 
 .PHONY : clean
 
