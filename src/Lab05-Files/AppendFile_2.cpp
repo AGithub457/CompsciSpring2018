@@ -1,32 +1,32 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+
 using namespace std;
 
-int main()
-{
-  fstream inout;
+int main() {
+    fstream inout;
 
- 
-  // Append to the file
-  inout.open("city.txt", ios::out | ios::app);
 
-  // Write cities
-  inout << "Savannah" << " " << "Austin" << " " << "Chicago";
+    // Append to the file
+    inout.open("city.txt", ios::out | ios::app);
 
-  inout.close();
+    // Write cities
+    inout << "Savannah" << " " << "Austin" << " " << "Chicago";
 
-  string city;
+    inout.close();
 
-  // Open the file
-  inout.open("city.txt", ios::in);
-  while (!inout.eof()) // Continue if not end of file
-  {
-    inout >> city;
-    cout << city << " ";
-  }
+    string city;
 
-  inout.close();
+    // Open the file
+    inout.open("city.txt", ios::in);
+    while (!inout.eof()) // Continue if not end of file
+    {
+        inout >> city;
+        cout << city << " ";
+    }
 
-  return 0;
+    inout.close();
+
+    return 0;
 } 

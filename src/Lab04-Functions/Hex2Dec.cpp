@@ -1,39 +1,35 @@
 #include <iostream>
 #include <string>
 #include <cctype>
+
 using namespace std;
 
-int hexCharToDecimal(char ch)
-{
-	ch = toupper(ch); // Change it to uppercase
-	if (ch >= 'A' && ch <= 'F')
-		return 10 + ch - 'A';
-	else // ch is '0', '1', ..., or '9'
-		return ch - '0';
+int hexCharToDecimal(char ch) {
+    ch = toupper(ch); // Change it to uppercase
+    if (ch >= 'A' && ch <= 'F')
+        return 10 + ch - 'A';
+    else // ch is '0', '1', ..., or '9'
+        return ch - '0';
 }
 
 
-int hex2Dec(const string& hex)
-{
-  int decimalValue = 0;
-  for (unsigned i = 0; i < hex.size(); i++)
-    decimalValue = decimalValue * 16 + hexCharToDecimal(hex[i]);
+int hex2Dec(const string &hex) {
+    int decimalValue = 0;
+    for (unsigned i = 0; i < hex.size(); i++)
+        decimalValue = decimalValue * 16 + hexCharToDecimal(hex[i]);
 
-  return decimalValue;
+    return decimalValue;
 }
 
 
+int main() {
+    // Prompt the user to enter a hex number as a string
+    cout << "Enter a hex number: ";
+    string hex;
+    cin >> hex;
 
+    cout << "The decimal value for hex number " << hex
+         << " is " << hex2Dec(hex) << endl;
 
-int main()
-{
-  // Prompt the user to enter a hex number as a string
-  cout << "Enter a hex number: ";
-  string hex;
-  cin >> hex;
-
-  cout << "The decimal value for hex number " << hex
-    << " is " <<  hex2Dec(hex) << endl;
-
-  return 0;
+    return 0;
 }

@@ -3,38 +3,34 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+
 using namespace std;
 
-int main()
-{
-   string input;	// To hold file input
-   
-   // Open the file for input.
-   fstream dataFile("names2.txt", ios::in);
-   
-   // If the file was successfully opened, continue.
-   if (dataFile)
-   {
-       // Read an item using $ as a delimiter.
-       
-       
-       // While the last read operation 
-       // was successful, continue.       
-       while (getline(dataFile, input, '$'))
-       {
-          // Display the last item read.
-          cout << input << endl;
-          
-          // Read an item using $ as a delimiter.
-          //getline(dataFile, input, '$');
-       }
-       
-       // Close the file.
-       dataFile.close();
-   }
-   else
-   {
-      cout << "ERROR: Cannot open file.\n";
-   }
-   return 0;
+int main() {
+    string input;    // To hold file input
+
+    // Open the file for input.
+    fstream dataFile("names2.txt", ios::in);
+
+    // If the file was successfully opened, continue.
+    if (dataFile) {
+        // Read an item using $ as a delimiter.
+
+
+        // While the last read operation
+        // was successful, continue.
+        while (getline(dataFile, input, '$')) {
+            // Display the last item read.
+            cout << input << endl;
+
+            // Read an item using $ as a delimiter.
+            //getline(dataFile, input, '$');
+        }
+
+        // Close the file.
+        dataFile.close();
+    } else {
+        cout << "ERROR: Cannot open file.\n";
+    }
+    return 0;
 }

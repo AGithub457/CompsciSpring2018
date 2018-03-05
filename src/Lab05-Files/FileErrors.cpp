@@ -2,6 +2,7 @@
 // object error testing member functions.
 #include<iostream>
 #include<fstream>
+
 using namespace std;
 
 
@@ -14,66 +15,59 @@ using namespace std;
 // reutrns.                                                       *
 //*****************************************************************
 
-void showState(fstream &file)
-{
-	cout << "File Status:\n";
-	cout << " eof bit: " << file.eof() << endl;
-	cout << " fail bit: " << file.fail() << endl;
-	cout << " bad bit: " << file.bad() << endl;
-	cout << " good bit: " << file.good() << endl;
-	file.clear();	// Clear any bad bits
+void showState(fstream &file) {
+    cout << "File Status:\n";
+    cout << " eof bit: " << file.eof() << endl;
+    cout << " fail bit: " << file.fail() << endl;
+    cout << " bad bit: " << file.bad() << endl;
+    cout << " good bit: " << file.good() << endl;
+    file.clear();    // Clear any bad bits
 }
 
 
+int main() {
+    int num = 10;
 
+    // Open the file for output.
+    fstream testFile("stuff.txt", ios::out);
+    if (testFile.fail()) {
+        cout << "ERROR: cannot open the file.\n";
+        return 0;
+    }
 
+    // Write a value to the file.
+    cout << "Writing the value " << num << " to the file.\n";
+    testFile << num;
 
-int main()
-{
-	int num = 10;
+    // Show the bit states.
+    showState(testFile);
 
-	// Open the file for output.
-	fstream testFile("stuff.txt", ios::out);
-	if (testFile.fail())
-	{
-		cout << "ERROR: cannot open the file.\n";
-		return 0;
-	}
+    // Close the file.
+    testFile.close();
 
-	// Write a value to the file.
-	cout << "Writing the value " << num << " to the file.\n";
-	testFile << num;
+    // Reopen the file for input.
+    testFile.open("stuff.txt", ios::in);
+    if (testFile.fail()) {
+        cout << "ERROR: cannot open the file.\n";
+        return 0;
+    }
 
-	// Show the bit states.
-	showState(testFile);
+    // Read the only value from the file.
+    cout << "Reading from the file.\n";
+    testFile >> num;
+    cout << "The value " << num << " was read.\n";
 
-	// Close the file.
-	testFile.close();
+    // Show the bit states.
+    showState(testFile);
 
-	// Reopen the file for input.
-	testFile.open("stuff.txt", ios::in);
-	if (testFile.fail())
-	{
-		cout << "ERROR: cannot open the file.\n";
-		return 0;
-	}
+    // No more data in the file, but force an invalid read operation.
+    cout << "Forcing a bad read operation.\n";
+    testFile >> num;
 
-	// Read the only value from the file.
-	cout << "Reading from the file.\n";
-	testFile >> num;
-	cout << "The value " << num << " was read.\n";
+    // Show the bit states.
+    showState(testFile);
 
-	// Show the bit states.
-	showState(testFile);
-
-	// No more data in the file, but force an invalid read operation.
-	cout << "Forcing a bad read operation.\n";
-	testFile >> num;
-
-	// Show the bit states.
-	showState(testFile);
-
-	// Close the file.
-	testFile.close();
-	return 0;
+    // Close the file.
+    testFile.close();
+    return 0;
 }
