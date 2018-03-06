@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MonthlyPayments.dir/src/Lab01-Strings/MonthlyPayments.cpp.obj"
-  "MonthlyPayments.pdb"
-  "MonthlyPayments.exe"
-  "MonthlyPayments.exe.manifest"
+  "CMakeFiles/MonthlyPayments.dir/src/OpenLab01-Strings/MonthlyPayments.cpp.obj"
+  "../src/OpenLab01-Strings/OpenLab01-Strings/MonthlyPayments.pdb"
+  "../src/OpenLab01-Strings/OpenLab01-Strings/MonthlyPayments.exe"
+  "../src/OpenLab01-Strings/OpenLab01-Strings/MonthlyPayments.exe.manifest"
   "libMonthlyPayments.dll.a"
 )
 

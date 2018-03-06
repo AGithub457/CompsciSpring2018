@@ -59,15 +59,15 @@ include CMakeFiles/RomanNumeral.dir/flags.make
 CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.obj: CMakeFiles/RomanNumeral.dir/flags.make
 CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.obj: ../src/OpenLab02-Roman/RomanNumeral.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Armand\Documents\Development\School\CompSciSpring2018\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.obj"
-	C:\PROGRA~1\mingw-w64\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RomanNumeral.dir\src\OpenLab02-Roman\RomanNumeral.cpp.obj -c C:\Users\Armand\Documents\Development\School\CompSciSpring2018\src\OpenLab02-Roman\RomanNumeral.cpp
+	C:\PROGRA~1\MINGW-~1\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RomanNumeral.dir\src\OpenLab02-Roman\RomanNumeral.cpp.obj -c C:\Users\Armand\Documents\Development\School\CompSciSpring2018\src\OpenLab02-Roman\RomanNumeral.cpp
 
 CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.i"
-	C:\PROGRA~1\mingw-w64\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Armand\Documents\Development\School\CompSciSpring2018\src\OpenLab02-Roman\RomanNumeral.cpp > CMakeFiles\RomanNumeral.dir\src\OpenLab02-Roman\RomanNumeral.cpp.i
+	C:\PROGRA~1\MINGW-~1\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Armand\Documents\Development\School\CompSciSpring2018\src\OpenLab02-Roman\RomanNumeral.cpp > CMakeFiles\RomanNumeral.dir\src\OpenLab02-Roman\RomanNumeral.cpp.i
 
 CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.s"
-	C:\PROGRA~1\mingw-w64\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Armand\Documents\Development\School\CompSciSpring2018\src\OpenLab02-Roman\RomanNumeral.cpp -o CMakeFiles\RomanNumeral.dir\src\OpenLab02-Roman\RomanNumeral.cpp.s
+	C:\PROGRA~1\MINGW-~1\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Armand\Documents\Development\School\CompSciSpring2018\src\OpenLab02-Roman\RomanNumeral.cpp -o CMakeFiles\RomanNumeral.dir\src\OpenLab02-Roman\RomanNumeral.cpp.s
 
 CMakeFiles/RomanNumeral.dir/src/OpenLab02-Roman/RomanNumeral.cpp.obj.requires:
 

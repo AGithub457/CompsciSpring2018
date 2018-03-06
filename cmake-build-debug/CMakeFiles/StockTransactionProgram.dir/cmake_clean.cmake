@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/StockTransactionProgram.dir/src/Lab01-Strings/StockTransactionProgram.cpp.obj"
-  "StockTransactionProgram.pdb"
-  "StockTransactionProgram.exe"
-  "StockTransactionProgram.exe.manifest"
+  "CMakeFiles/StockTransactionProgram.dir/src/OpenLab01-Strings/StockTransactionProgram.cpp.obj"
+  "../src/OpenLab01-Strings/OpenLab01-Strings/StockTransactionProgram.pdb"
+  "../src/OpenLab01-Strings/OpenLab01-Strings/StockTransactionProgram.exe"
+  "../src/OpenLab01-Strings/OpenLab01-Strings/StockTransactionProgram.exe.manifest"
   "libStockTransactionProgram.dll.a"
 )
 

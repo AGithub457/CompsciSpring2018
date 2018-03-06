@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Sandbox.dir/src/Sandbox.cpp.obj"
-  "Sandbox.pdb"
-  "Sandbox.exe"
-  "Sandbox.exe.manifest"
+  "../src/Sandbox.pdb"
+  "../src/Sandbox.exe"
+  "../src/Sandbox.exe.manifest"
   "libSandbox.dll.a"
 )
 

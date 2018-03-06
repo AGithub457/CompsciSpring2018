@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/InternetSeriveProvider.dir/src/HW01-ISP/InternetSeriveProvider.cpp.obj"
-  "InternetSeriveProvider.pdb"
-  "InternetSeriveProvider.exe"
-  "InternetSeriveProvider.exe.manifest"
+  "CMakeFiles/InternetSeriveProvider.dir/src/HW01-ISP/HW01-ISP.cpp.obj"
+  "../src/HW01-ISP/InternetSeriveProvider.pdb"
+  "../src/HW01-ISP/InternetSeriveProvider.exe"
+  "../src/HW01-ISP/InternetSeriveProvider.exe.manifest"
   "libInternetSeriveProvider.dll.a"
 )
 

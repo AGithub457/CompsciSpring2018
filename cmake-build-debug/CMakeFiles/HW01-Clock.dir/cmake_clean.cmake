@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/HW01-Clock.dir/src/HW02-Clock/HW01-Clock.cpp.obj"
-  "HW01-Clock.pdb"
-  "HW01-Clock.exe"
-  "HW01-Clock.exe.manifest"
+  "../src/HW02-Clock/HW01-Clock.pdb"
+  "../src/HW02-Clock/HW01-Clock.exe"
+  "../src/HW02-Clock/HW01-Clock.exe.manifest"
   "libHW01-Clock.dll.a"
 )
 

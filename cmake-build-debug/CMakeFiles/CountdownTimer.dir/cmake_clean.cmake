@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CountdownTimer.dir/src/Lab03-Timer/CountdownTimer.cpp.obj"
-  "CountdownTimer.pdb"
-  "CountdownTimer.exe"
-  "CountdownTimer.exe.manifest"
+  "CMakeFiles/CountdownTimer.dir/src/OpenLab03-Timer/CountdownTimer.cpp.obj"
+  "../src/OpenLab03-Timer/OpenLab03-Timer/CountdownTimer.pdb"
+  "../src/OpenLab03-Timer/OpenLab03-Timer/CountdownTimer.exe"
+  "../src/OpenLab03-Timer/OpenLab03-Timer/CountdownTimer.exe.manifest"
   "libCountdownTimer.dll.a"
 )
 

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/StateIncomeTax.dir/src/Lab02-Decisions/StateIncomeTax.cpp.obj"
-  "StateIncomeTax.pdb"
-  "StateIncomeTax.exe"
-  "StateIncomeTax.exe.manifest"
+  "CMakeFiles/StateIncomeTax.dir/src/OpenLab02-Decisions/StateIncomeTax.cpp.obj"
+  "../src/OpenLab02-Decisions/OpenLab02-Decisions/StateIncomeTax.pdb"
+  "../src/OpenLab02-Decisions/OpenLab02-Decisions/StateIncomeTax.exe"
+  "../src/OpenLab02-Decisions/OpenLab02-Decisions/StateIncomeTax.exe.manifest"
   "libStateIncomeTax.dll.a"
 )
 
