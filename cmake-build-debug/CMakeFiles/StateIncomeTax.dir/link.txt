@@ -1,3 +1,0 @@
-C:\Users\Armand\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.3986.16\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\StateIncomeTax.dir/objects.a
-C:\PROGRA~1\MINGW-~1\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\ar.exe cr CMakeFiles\StateIncomeTax.dir/objects.a @CMakeFiles\StateIncomeTax.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\x86_64-7.2.0-posix-seh-rt_v5-rev1\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\StateIncomeTax.dir/objects.a -Wl,--no-whole-archive  -o ..\src\OpenLab02-Decisions\OpenLab02-Decisions\StateIncomeTax.exe -Wl,--out-implib,libStateIncomeTax.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StateIncomeTax.dir\linklibs.rsp
