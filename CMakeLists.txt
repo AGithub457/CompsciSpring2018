@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.9)
+project(CompSciSpring2018)
+
+set(CMAKE_CXX_STANDARD 17)
+
+
+add_executable(Sandbox src/Sandbox.cpp)
+set_target_properties(Sandbox PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/")
+add_executable(HW01-ISP src/HW01-ISP/HW01-ISP.cpp)
+set_target_properties(HW01-ISP PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/HW01-ISP/")
+add_executable(HW01-Clock src/HW02-Clock/HW01-Clock.cpp)
+set_target_properties(HW01-Clock PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/HW02-Clock/")
+add_executable(MonthlyPayments src/OpenLab01-Strings/MonthlyPayments.cpp)
+set_target_properties(MonthlyPayments PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/OpenLab01-Strings/OpenLab01-Strings")
+add_executable(StockTransactionProgram src/OpenLab01-Strings/StockTransactionProgram.cpp)
+set_target_properties(StockTransactionProgram PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/OpenLab01-Strings/OpenLab01-Strings")
+add_executable(WordGame src/OpenLab01-Strings/WordGame.cpp)
+set_target_properties(WordGame PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/OpenLab01-Strings/OpenLab01-Strings")
+add_executable(StateIncomeTax src/OpenLab02-Decisions/StateIncomeTax.cpp)
+set_target_properties(StateIncomeTax PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/OpenLab02-Decisions/OpenLab02-Decisions")
+add_executable(CountdownTimer src/OpenLab03-Timer/CountdownTimer.cpp)
+set_target_properties(CountdownTimer PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/src/OpenLab03-Timer/OpenLab03-Timer")
